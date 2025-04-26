@@ -1,0 +1,7 @@
+pandas 
+numpy 
+matplotlib.pyplot as plt
+seaborn
+plotly.express
+train_test_split
+LinearRegression
